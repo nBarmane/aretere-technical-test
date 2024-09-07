@@ -1,0 +1,15 @@
+com\example\artere\service\CartService.class
+com\example\artere\controller\ProductController.class
+com\example\artere\model\CartItem.class
+com\example\artere\service\ProductService.class
+com\example\artere\repository\CartRepository.class
+com\example\artere\service\CategoryService.class
+com\example\artere\controller\CategoryController.class
+com\example\artere\repository\CategoryRepository.class
+com\example\artere\repository\ProductRepository.class
+com\example\artere\model\Category.class
+com\example\artere\AretereTestProjectApplication.class
+com\example\artere\model\Cart.class
+com\example\artere\controller\CartController.class
+com\example\artere\model\Product.class
+com\example\artere\repository\CartItemRepository.class

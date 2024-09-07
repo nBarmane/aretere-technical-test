@@ -1,0 +1,15 @@
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\AretereTestProjectApplication.java
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\controller\CartController.java
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\controller\CategoryController.java
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\controller\ProductController.java
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\model\Cart.java
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\model\CartItem.java
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\model\Category.java
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\model\Product.java
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\repository\CartItemRepository.java
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\repository\CartRepository.java
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\repository\CategoryRepository.java
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\repository\ProductRepository.java
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\service\CartService.java
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\service\CategoryService.java
+C:\Users\Nouamane\Desktop\aretere-test-project\src\main\java\com\example\artere\service\ProductService.java

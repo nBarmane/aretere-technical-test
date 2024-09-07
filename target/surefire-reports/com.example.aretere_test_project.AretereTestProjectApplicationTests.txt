@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.aretere_test_project.AretereTestProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.754 s -- in com.example.aretere_test_project.AretereTestProjectApplicationTests
